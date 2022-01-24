@@ -67,6 +67,13 @@ body {
   line-height: 1;
 }
 
+.image-square {
+  height: 174px;
+  object-fit: cover;
+  object-position: center center;
+
+}
+
 ::placeholder { /* Most modern browsers support this now. */
   color: white !important;
 }
